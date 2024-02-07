@@ -1,0 +1,1 @@
+print("Welcome to Ubuntu\nI am gonna test GIT here")
